@@ -9,3 +9,13 @@ Started springboot course. Learned about creating and launching springboot proje
 
 **Link(s) to work**
 1. [Hackerrank](https://www.hackerrank.com/zhadyrassyn_dan1?hr_r=1)
+
+### Day 2: 11 December, Monday(2017)
+
+**Today's Progress**: Revised and implemented LinkedList. Participated in codeforces round(1/5). Solved 4 simple linkedlist problems(hackerrank). Practiced with JPA, TDD, JdbcTemplate
+
+**Thoughts** Nice. +38 points in codeforces =) 
+
+**Link(s) to work**
+1. [Hackerrank](https://www.hackerrank.com/zhadyrassyn_dan1?hr_r=1)
+2. [DataStructures](https://github.com/zhadyrassyn/Algorithms-DataStructure)
