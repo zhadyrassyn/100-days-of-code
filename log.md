@@ -19,3 +19,13 @@ Started springboot course. Learned about creating and launching springboot proje
 **Link(s) to work**
 1. [Hackerrank](https://www.hackerrank.com/zhadyrassyn_dan1?hr_r=1)
 2. [DataStructures](https://github.com/zhadyrassyn/Algorithms-DataStructure)
+
+### Day 3: 12 December, Tuesday(2017)
+
+**Today's Progress**: Revised and implemented DoubleLinkedList. Solved some linkedlist problems(hackerrank). Learned about git checkout usage
+
+**Thoughts** Nice. +38 points in codeforces =) 
+
+**Link(s) to work**
+1. [Hackerrank](https://www.hackerrank.com/zhadyrassyn_dan1?hr_r=1)
+2. [DataStructures](https://github.com/zhadyrassyn/Algorithms-DataStructure)
