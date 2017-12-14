@@ -39,3 +39,14 @@ Started springboot course. Learned about creating and launching springboot proje
 **Link(s) to work**
 1. [Hackerrank](https://www.hackerrank.com/zhadyrassyn_dan1?hr_r=1)
 2. [DataStructures](https://github.com/zhadyrassyn/Algorithms-DataStructure)
+
+### Day 5: 14 December, Thursday(2017)
+
+**Today's Progress**: Keep on reading about running time analysis of algorithms. Solved some problems at codeforces/hackerrank. Learned about Spring MVC, Thymeleaf. 
+Finished and published my internal service at work =)
+
+**Thoughts** I've decided to become the best software developer. Land my job at Silicon Valley some day and not turning my head around so to go only forward. I will do all the dependent things to create my future as a software developer.
+
+**Link(s) to work**
+1. [Hackerrank](https://www.hackerrank.com/zhadyrassyn_dan1?hr_r=1)
+
