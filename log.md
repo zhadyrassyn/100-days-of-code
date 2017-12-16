@@ -50,3 +50,14 @@ Finished and published my internal service at work =)
 **Link(s) to work**
 1. [Hackerrank](https://www.hackerrank.com/zhadyrassyn_dan1?hr_r=1)
 
+### Day 6: 15 December, Friday(2017)
+
+**Today's Progress**: Read about memory consumption and running time of analysis. Finished that chapter. Solved problem C in codeforces(Educational round), 2 linkedlist problems in hackerrank. 
+
+**Thoughts** I think in parallel I should do side projects. Try to come up with side project to do. Participated in world codesprint 12(1/6 for now)
+
+P.S. Previously participated in 101Hack52. Solved 1 problem/5
+
+**Link(s) to work**
+1. [Hackerrank](https://www.hackerrank.com/zhadyrassyn_dan1?hr_r=1)
+
