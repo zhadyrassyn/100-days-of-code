@@ -61,3 +61,8 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 **Link(s) to work**
 1. [Hackerrank](https://www.hackerrank.com/zhadyrassyn_dan1?hr_r=1)
 
+### Day 7: 16 December, Saturday(2017)
+
+**Today's Progress**: Got and introduction of SOLID principle and basics of DI.
+
+**Thoughts** I was invited by my friend to his house to have fun. So I had a little time to study. 
