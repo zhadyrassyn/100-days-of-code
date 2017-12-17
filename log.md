@@ -66,3 +66,9 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 **Today's Progress**: Got and introduction of SOLID principle and basics of DI.
 
 **Thoughts** I was invited by my friend to his house to have fun. So I had a little time to study. 
+
+### Day 8: 17 December, Sunday(2017)
+
+**Today's Progress**: Better understood about DI in Spring, types of DI, qualifiers. Participated in codeforces(1/6)
+
+**Thoughts** Learned something in springframework course. The solution for 2 problem failed unfortunately. Decided to add one more goal to my challenge. I want to do projects, because I am a software developer, am I? My first side project will be to create a personal blog. 
