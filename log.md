@@ -72,3 +72,11 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 **Today's Progress**: Better understood about DI in Spring, types of DI, qualifiers. Participated in codeforces(1/6)
 
 **Thoughts** Learned something in springframework course. The solution for 2 problem failed unfortunately. Decided to add one more goal to my challenge. I want to do projects, because I am a software developer, am I? My first side project will be to create a personal blog. 
+
+### Day 9: 18 December, Monday(2017)
+
+**Today's Progress**: Read about Union Find Data structure. QuickFind and QuickUnion algorithms. Pros and cons
+
+**Thoughts** A lot of time was spent to prepare for GaveDev exam
+1. [Algorithms](https://github.com/zhadyrassyn/Algorithms-DataStructure)
+
