@@ -80,3 +80,11 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 **Thoughts** A lot of time was spent to prepare for GaveDev exam
 1. [Algorithms](https://github.com/zhadyrassyn/Algorithms-DataStructure)
 
+### Day 10: 19 December, Tuesday(2017)
+
+**Today's Progress**: Implemented and read about WeightedUnionFind(disjointSet). Participated in codeforces round(1/5). Learned about Primary Beans and profiles in SpringBoot. 
+
+**Thoughts** Time limit in my second solution(codeforces). So saaad. 
+1. [Algorithms](https://github.com/zhadyrassyn/Algorithms-DataStructure)
+2. [Codeforces](http://codeforces.com/profile/zhadyrassyn_dan1)
+
