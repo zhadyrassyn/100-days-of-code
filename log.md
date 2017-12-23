@@ -88,3 +88,29 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 1. [Algorithms](https://github.com/zhadyrassyn/Algorithms-DataStructure)
 2. [Codeforces](http://codeforces.com/profile/zhadyrassyn_dan1)
 
+### Day 11: 20 December, Wednesday(2017)
+
+**Today's Progress**: Read and implemented selection sort algorithm 
+
+**Thoughts** Mostly prepared to final exams
+1. [Algorithms](https://github.com/zhadyrassyn/Algorithms-DataStructure)
+
+## Had a day to relax, 21 December, Thursday
+
+### Day 12: 22 December, Friday(2017)
+
+**Today's Progress**: Read and implemented insertion sort algorithm
+
+**Thoughts** Mostly prepared to final exams
+1. [Algorithms](https://github.com/zhadyrassyn/Algorithms-DataStructure)
+
+### Day 13: 23 December, Saturday(2017)
+
+**Today's Progress**: Solved 2 codeforces problems(B). Better understood SOLID principle by examples. 
+
+**Thoughts** I am forgetting my goal. Who I am gonna be and What I am gonna do...
+
+
+
+
+
