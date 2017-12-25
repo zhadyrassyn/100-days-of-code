@@ -110,6 +110,18 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 
 **Thoughts** I am forgetting my goal. Who I am gonna be and What I am gonna do...
 
+### Day 14: 24 December, Sunday(2017)
+
+**Today's Progress**: Implemented simple Joke app with SpringMVC 
+
+**Thoughts** Productivity is decreasing.
+
+### Day 15: 25 December, Monday(2017)
+
+**Today's Progress**: ReactJS. Read 'Quick start' guide in doc
+
+**Thoughts** It is time to come with rejime. Hard and taugh rejime to do all the things I want.
+
 
 
 
