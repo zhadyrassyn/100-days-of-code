@@ -122,6 +122,12 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 
 **Thoughts** It is time to come with rejime. Hard and taugh rejime to do all the things I want.
 
+### Day 16: 26 December, Monday(2017)
+
+**Today's Progress**: Read about advanced stuff in ReactJS documentation
+
+**Thoughts** Not doing as much as I can
+
 
 
 
