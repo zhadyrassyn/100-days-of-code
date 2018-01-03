@@ -128,6 +128,21 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 
 **Thoughts** Not doing as much as I can
 
+## HOLIDAYS 27-01
+
+### Day 17: 02 January, Tuesday(2018)
+
+**Today's Progress**: Section 1 is finished in 'Modern React and Redux' course
+
+**Thoughts** Finally coming back after short christmas break. I am quite dissapointed of my progress. 
+
+### Day 18: 03 January, Wednesday(2018)
+
+**Today's Progress**: Now at section 2. Learned about fetching youtube data and bind to react component.
+
+**Thoughts** I feel like I should more to become successfull. Work 15 hours a day, not 1
+
+
 
 
 
