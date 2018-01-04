@@ -142,6 +142,12 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 
 **Thoughts** I feel like I should more to become successfull. Work 15 hours a day, not 1
 
+### Day 19: 04 January, Thursday(2018)
+
+**Today's Progress**: Finished 2 section in React + Redux course. Implemented simple mini youtube application.
+
+**Thoughts** Understood a lot from doing this simple application. Will keep forward 
+
 
 
 
