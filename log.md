@@ -148,6 +148,17 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 
 **Thoughts** Understood a lot from doing this simple application. Will keep forward 
 
+### Day 20: 05 January, Friday(2018)
+
+**Today's Progress**: Participated in codeforces competition.(1/5)
+
+**Thoughts** Still going down I guess
+
+### Day 21: 06 January, Saturday(2018)
+
+**Today's Progress**: Learning redux. Reducers, containers
+
+**Thoughts** Started section in redux. Started to understand the basics of redux
 
 
 
