@@ -160,6 +160,13 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 
 **Thoughts** Started section in redux. Started to understand the basics of redux
 
+### Day 22: 07 January, Sunday(2018)
+
+**Today's Progress**: Wrote an Android app: Java Tutorials as an extra tast at RTM subject.
+
+**Thoughts** Understood more about using RecycleView and click events. 
+
+1. [Java Tutorials](https://github.com/zhadyrassyn/JavaTutorialsApp)
 
 
 
