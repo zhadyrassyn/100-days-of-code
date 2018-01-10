@@ -168,6 +168,15 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 
 1. [Java Tutorials](https://github.com/zhadyrassyn/JavaTutorialsApp)
 
+## 08.01.2018. Break
+
+### Day 23: 09 January, Tuesday(2018)
+
+**Today's Progress**: Learned about action and action creators. Redux life cycle. Finished simple app with Redux. Started 'Intro to CS' course. 
+
+**Thoughts** Not bad. Keep going  
+
+1. [Java Tutorials](https://github.com/zhadyrassyn/JavaTutorialsApp)
 
 
 
