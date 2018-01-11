@@ -178,5 +178,17 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 
 1. [Java Tutorials](https://github.com/zhadyrassyn/JavaTutorialsApp)
 
+### Day 24: 10 January, Wednesday(2018)
+
+**Today's Progress**: Started weather app with react-redux. Started Unit 1 on 'Intro to CS course' at udacity course.
+
+**Thoughts** Started the way to Facebook. I believe that some day I will get to Facebook. To get to Facebook I should persistently work and work.
+
+### Day 25: 11 January, Thursday(2018)
+
+**Today's Progress**: Finished 'Intro to CS' unit 1. Learning about redux middleware, promise, ajax requests
+
+**Thoughts** I believe that success is about being persistent
+
 
 
