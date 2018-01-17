@@ -190,5 +190,26 @@ P.S. Previously participated in 101Hack52. Solved 1 problem/5
 
 **Thoughts** I believe that success is about being persistent
 
+**12-14 Trip to home
+
+### Day 26: 15 January, Monday(2018)
+
+**Today's Progress**: Started 'ExpressJs', 'NodeJS' at work. Started with reading documentation of expressjs
+
+**Thoughts** I cannot believe that all my free time is gone because of work
+
+### Day 27: 16 January, Tuesday(2018)
+
+**Today's Progress**: Started to rewriting an existing to project to nodejs. Intro to dot template engine, async calls and promises
+
+**Thoughts** It is becoming more productive at work. 
+
+### Day 28: 17 January, Wednesday(2018)
+
+**Today's Progress**: Almost finished rewriting project to nodejs. Finished section in 'ReactJS' course. Finished a little project during the course
+
+**Thoughts** I started to invest to my knowledge at free time. Early in the morning and in the evening after dinner
+
+
 
 
